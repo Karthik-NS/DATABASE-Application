@@ -1,4 +1,4 @@
-# DATABASE-Application
+# DATABASE GUI-Application
 BookStore GUI application using Python and MySQL
 
 A GUI application has been created using Python as programming language and MySQL as database.
