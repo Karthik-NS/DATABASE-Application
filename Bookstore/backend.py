@@ -63,7 +63,3 @@ def delete(isbn):
 
 
 connect()
-
-
-
-update(2459783,author='SAHAS')
